@@ -19,7 +19,7 @@ After specifying the details of the posts to be made in the `posts.json` file, r
 
 ```console
 $ python3 reddit-auto-poster.py 
-[*] Password for Reddit account SkullTech101: 
+[*] Password for Reddit account BlackTureIsNotAMeme: 
 [*] JSON file containing posts: posts.json
 [*] Posted "Test post..." on test. Post ID: 8e5k45
 ...
